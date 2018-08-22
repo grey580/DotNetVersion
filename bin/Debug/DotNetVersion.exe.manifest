@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DotNetVersion.exe" size="5616">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DotNetVersion.exe" size="6640">
       <assemblyIdentity name="DotNetVersion" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>dtz12aHbO33JuHZ7onPJshhogyGNzOABaBJ0hLGVJu4=</dsig:DigestValue>
+        <dsig:DigestValue>nXwTSKrhxrTgrD0YQd00UfEtmztV3PnPLpYTg32ldfg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
