@@ -1,0 +1,10 @@
+c:\users\albertosolano\documents\visual studio 2015\Projects\DotNetVersion\DotNetVersion\bin\Debug\DotNetVersion.exe.config
+c:\users\albertosolano\documents\visual studio 2015\Projects\DotNetVersion\DotNetVersion\bin\Debug\DotNetVersion.exe
+c:\users\albertosolano\documents\visual studio 2015\Projects\DotNetVersion\DotNetVersion\bin\Debug\DotNetVersion.pdb
+c:\users\albertosolano\documents\visual studio 2015\Projects\DotNetVersion\DotNetVersion\obj\Debug\DotNetVersion.csprojResolveAssemblyReference.cache
+c:\users\albertosolano\documents\visual studio 2015\Projects\DotNetVersion\DotNetVersion\obj\Debug\DotNetVersion.exe
+c:\users\albertosolano\documents\visual studio 2015\Projects\DotNetVersion\DotNetVersion\obj\Debug\DotNetVersion.pdb
+c:\users\albertosolano\documents\visual studio 2015\Projects\DotNetVersion\DotNetVersion\bin\Debug\DotNetVersion.exe.manifest
+c:\users\albertosolano\documents\visual studio 2015\Projects\DotNetVersion\DotNetVersion\bin\Debug\DotNetVersion.application
+c:\users\albertosolano\documents\visual studio 2015\Projects\DotNetVersion\DotNetVersion\obj\Debug\DotNetVersion.exe.manifest
+c:\users\albertosolano\documents\visual studio 2015\Projects\DotNetVersion\DotNetVersion\obj\Debug\DotNetVersion.application
